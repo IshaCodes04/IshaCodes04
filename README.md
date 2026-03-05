@@ -81,15 +81,9 @@
 
 <br/>
 
-<!-- GitHub Stats - using anuraghazra with cache_seconds to force refresh -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=IshaCodes04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&cache_seconds=1800" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaCodes04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e9d5ff&cache_seconds=1800" />
-
-<br/><br/>
-
-<!-- streak-stats - demolab version is reliable -->
-<img src="https://streak-stats.demolab.com?user=IshaCodes04&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=c084fc&fire=ff6b6b&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=a78bfa&currStreakNum=ffffff&sideNums=ffffff" />
+![](https://github-readme-stats.vercel.app/api?username=IshaCodes04&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=IshaCodes04&theme=aura&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaCodes04&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -101,8 +95,7 @@
 
 <br/>
 
-<!-- github-profile-trophy - reliable -->
-<img src="https://github-profile-trophy.vercel.app/?username=IshaCodes04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+![](https://github-profile-trophy.vercel.app/?username=IshaCodes04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -148,6 +141,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/isha_singh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23c026d3.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ishasingh.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isha@gmail.com)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=IshaCodes04&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <br/>
 
