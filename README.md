@@ -1,29 +1,17 @@
-
 <div align="center">
 
-<!-- Animated Venom-style Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:7c3aed,100:c026d3&height=220&section=header&text=Isha%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20✦%20AI%20Enthusiast%20✦%20Builder&descAlignY=62&descAlign=50&descSize=17&descColor=e9d5ff&stroke=7c3aed&strokeWidth=2" />
+<!-- Capsule Render Header - very reliable -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7c3aed,100:c026d3&height=220&section=header&text=Isha%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20AI%20Enthusiast%20%E2%9C%A6%20Builder&descAlignY=58&descAlign=50&descSize=18&descColor=e9d5ff" />
 
 <br/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=C084FC&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=650&height=45&lines=🚀+Aspiring+Software+Engineer;💻+Full-Stack+Developer+in+Progress;🤖+Exploring+AI+%26+LLMs;⚡+Building+Real-Time+Systems;🔗+Microservices+%26+Blockchain+Learner;🧠+RAG+%7C+MCP+%7C+GenAI+Explorer" alt="Typing SVG" />
-</a>
+<!-- Typing Animation - demolab is reliable -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=620&lines=🚀+Aspiring+Software+Engineer;💻+Full-Stack+Developer+in+Progress;🤖+Exploring+AI+%26+LLMs;⚡+Building+Real-Time+Systems;🔗+Microservices+%26+Blockchain+Learner;🧠+RAG+%7C+MCP+%7C+GenAI+Explorer" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake-dark.svg" />
-</picture>
-
-<br/>
-
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=IshaCodes04&color=a855f7&style=for-the-badge&label=👁️+Profile+Views)
+<!-- Profile Views - komarev is very reliable -->
+![Profile Views](https://komarev.com/ghpvc/?username=IshaCodes04&color=a855f7&style=for-the-badge&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/IshaCodes04?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/IshaCodes04)
 
 </div>
@@ -32,13 +20,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=9999&color=7C3AED&center=true&vCenter=true&width=500&lines=👋+Hi+there!+I'm+Isha+Singh" />
+## 👋 Hi, I'm Isha Singh!
 
 </div>
 
 > 💜 *"Code is poetry written in logic — and I'm just getting started."*
 
-🎓 🎓 **Second Year BCA Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
+🎓 **Second Year BCA Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
 
 ---
 
@@ -48,15 +36,16 @@
 
 <br/>
 
-![Full-Stack](https://img.shields.io/badge/🌐_Full--Stack_Dev-learning-7c3aed?style=flat-square&labelColor=1a1a2e)
-![DSA Java](https://img.shields.io/badge/☕_DSA_with_Java-practicing-7c3aed?style=flat-square&labelColor=1a1a2e)
-![Microservices](https://img.shields.io/badge/🔧_Microservices-exploring-a855f7?style=flat-square&labelColor=1a1a2e)
-![DevOps](https://img.shields.io/badge/🐳_DevOps_&_Docker-learning-a855f7?style=flat-square&labelColor=1a1a2e)
-![Blockchain](https://img.shields.io/badge/🔗_Blockchain-fundamentals-c026d3?style=flat-square&labelColor=1a1a2e)
-![GenAI](https://img.shields.io/badge/🤖_GenAI_&_LLMs-exploring-c026d3?style=flat-square&labelColor=1a1a2e)
-![RAG](https://img.shields.io/badge/📚_RAG-learning-e879f9?style=flat-square&labelColor=1a1a2e)
-![MCP](https://img.shields.io/badge/🖥️_MCP_Servers-exploring-e879f9?style=flat-square&labelColor=1a1a2e)
-![SocketIO](https://img.shields.io/badge/⚡_Real--Time_Socket.IO-building-7c3aed?style=flat-square&labelColor=1a1a2e)
+<!-- shields.io badges - 100% reliable -->
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Dev-Learning-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![DSA Java](https://img.shields.io/badge/DSA%20with%20Java-Practicing-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![Microservices](https://img.shields.io/badge/Microservices-Exploring-a855f7?style=for-the-badge&labelColor=1a1a2e)
+![DevOps](https://img.shields.io/badge/DevOps%20%26%20Docker-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e)
+![Blockchain](https://img.shields.io/badge/Blockchain-Fundamentals-c026d3?style=for-the-badge&labelColor=1a1a2e)
+![GenAI](https://img.shields.io/badge/GenAI%20%26%20LLMs-Exploring-c026d3?style=for-the-badge&labelColor=1a1a2e)
+![RAG](https://img.shields.io/badge/RAG-Learning-e879f9?style=for-the-badge&labelColor=1a1a2e)
+![MCP](https://img.shields.io/badge/MCP%20Servers-Exploring-e879f9?style=for-the-badge&labelColor=1a1a2e)
+![SocketIO](https://img.shields.io/badge/Real--Time%20Socket.IO-Building-7c3aed?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
@@ -68,7 +57,7 @@
 
 <br/>
 
-<!-- Skill Icons - Animated -->
+<!-- skillicons.dev - reliable, shows animated hover icons -->
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,docker,git,github,vscode&perline=6&theme=dark" />
 
 <br/><br/>
@@ -96,13 +85,15 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshaCodes04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaCodes04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e9d5ff"/>
+<!-- github-readme-stats - most reliable stats service -->
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=IshaCodes04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaCodes04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e9d5ff" />
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IshaCodes04&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=c084fc&fire=ff6b6b&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=a78bfa&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+<!-- streak-stats - demolab version is reliable -->
+<img src="https://streak-stats.demolab.com?user=IshaCodes04&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=c084fc&fire=ff6b6b&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=a78bfa&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
@@ -114,7 +105,8 @@
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IshaCodes04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- github-profile-trophy - reliable -->
+<img src="https://github-profile-trophy.vercel.app/?username=IshaCodes04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
@@ -126,7 +118,25 @@
 
 <br/>
 
-[![Isha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IshaCodes04&bg_color=0d1117&color=c084fc&line=7c3aed&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- activity graph - vercel hosted, reliable -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshaCodes04&bg_color=0d1117&color=c084fc&line=7c3aed&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&radius=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<br/>
+
+<!-- Snake - will work after workflow runs successfully -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -145,7 +155,6 @@
 
 <br/>
 
-<!-- Animated footer with twinkling effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0533,60:4a1d96,100:7c3aed&height=140&section=footer&text=Keep+Building+🚀&fontSize=22&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a1d96,100:7c3aed&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />
 
 </div>
