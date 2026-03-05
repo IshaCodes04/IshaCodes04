@@ -5,8 +5,8 @@
 
 <br/>
 
-<!-- Typing Animation - demolab is reliable -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=620&lines=🚀+Aspiring+Software+Engineer;💻+Full-Stack+Developer+in+Progress;🤖+Exploring+AI+%26+LLMs;⚡+Building+Real-Time+Systems;🔗+Microservices+%26+Blockchain+Learner;🧠+RAG+%7C+MCP+%7C+GenAI+Explorer" alt="Typing SVG" />
+<!-- Typing Animation - herokuapp version -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=620&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Exploring+AI+%26+LLMs+%F0%9F%A4%96;Building+Real-Time+Systems+%E2%9A%A1;Microservices+%26+Blockchain+Learner+%F0%9F%94%97;RAG+%7C+MCP+%7C+GenAI+Explorer+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -57,8 +57,19 @@
 
 <br/>
 
-<!-- skillicons.dev - reliable, shows animated hover icons -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,docker,git,github,vscode&perline=6&theme=dark" />
+<!-- Tech icons using shields.io with logos - 100% reliable -->
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io"/>
+<img src="https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 <br/><br/>
 
