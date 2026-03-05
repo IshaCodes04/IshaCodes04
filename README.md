@@ -57,21 +57,6 @@
 
 <br/>
 
-<!-- Tech icons using shields.io with logos - 100% reliable -->
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io"/>
-<img src="https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-<br/><br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -96,10 +81,10 @@
 
 <br/>
 
-<!-- github-readme-stats - most reliable stats service -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=IshaCodes04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" />
+<!-- GitHub Stats - using anuraghazra with cache_seconds to force refresh -->
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=IshaCodes04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&cache_seconds=1800" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaCodes04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e9d5ff" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaCodes04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e9d5ff&cache_seconds=1800" />
 
 <br/><br/>
 
