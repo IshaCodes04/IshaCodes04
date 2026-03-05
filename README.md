@@ -91,14 +91,6 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<br/>
-
-![](https://github-profile-trophy.vercel.app/?username=IshaCodes04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
 ---
 
 <div align="center">
